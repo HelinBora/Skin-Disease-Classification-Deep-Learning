@@ -5,7 +5,7 @@ This project implements deep learning algorithms to classify skin diseases using
 
 ## Models Used
 - Convolutional Neural Networks (CNN)
-- Transfer Learning (ResNet / VGG if used)
+- Transfer Learning (VGG16, VGG19, ResNet50, ResNet101V2, InceptionV3, Xception, DenseNet121, MobileNetV2, EfficientNetB0, EfficientNetB3 and MyCNN)
 
 ## Dataset
 Medical skin disease image dataset.
